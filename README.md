@@ -1,6 +1,6 @@
 # Welcome to Manan Datta's GitHub Profile 👋  
 
-Hi there! I'm **Manan Datta**, a passionate *Python Developer (Fresher)* with a strong foundation in programming and software development. I love working on **Python, C#, C, Android Programming** and exploring new technologies. I'm always eager to solve problems and build efficient applications.  
+Hi there! I'm **Manan Datta**, a passionate *Software Developer (Fresher)* with a strong foundation in programming and software development. I love working on **Python, C#, C, Android Programming** and exploring new technologies. I'm always eager to solve problems and build efficient applications.  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manandatta&color=blue)  
 
@@ -18,6 +18,17 @@ Hi there! I'm **Manan Datta**, a passionate *Python Developer (Fresher)* with a 
 - 👨‍💻 My expertise includes **System Analysis, Software Design, and Database Management**.  
 - 📚 I’m open to collaborating on *open-source projects and innovative applications*.  
 - 🎯 My goal is to become a **proficient software developer** by mastering **full-stack development and system design**.  
+
+---
+
+## 🎓 Training  
+
+📍 **Institute**: QSpiders  
+📍 **Course**: Python Full Stack Developer  
+📍 **Skills Learned**:  
+  - **Backend**: Python, Django  
+  - **Frontend**: HTML5, CSS3, JavaScript  
+  - **Database**: SQL  
 
 ---
 
@@ -92,7 +103,7 @@ Hi there! I'm **Manan Datta**, a passionate *Python Developer (Fresher)* with a 
   <a href="https://github.com/manandatta" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/manandatta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:manandatta673@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href=https://www.naukri.com/mnjuser/profile target="_blank"><img src="https://img.shields.io/badge/Naukri-0057B7?style=for-the-badge&logo=naukri&logoColor=white" alt="Naukri"></a>
+  <a href="https://www.naukri.com/mnjuser/profile" target="_blank"><img src="https://img.shields.io/badge/Naukri-0057B7?style=for-the-badge&logo=naukri&logoColor=white" alt="Naukri"></a>
 </p>
 
 <p align="center">
