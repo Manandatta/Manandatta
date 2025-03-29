@@ -82,9 +82,8 @@ Hi there! I'm **Manan Datta**, a passionate *Python Developer (Fresher)* with a 
 
 ## 🌟 GitHub Contributions in 3D  
 
-[[![Isometric Contributions](https://isometric-contributions.vercel.app/api?username=manandatta&theme=github-light)  ](https://isometric-contributions.vercel.app/api?username=manandatta&theme=dark
-)](https://isometric-contributions.vercel.app/api?username=manandatta&theme=dark
-)
+https://isometric-contributions.vercel.app/api?username=manandatta&theme=github-light
+
 
 ---
 
