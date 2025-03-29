@@ -1,6 +1,6 @@
 # Welcome to Manan Datta's GitHub Profile 👋  
 
-Hi there! I'm **Manan Datta**, a passionate *Software Developer (Fresher)* with a strong foundation in programming and software development. I love working on **Python, C#, C, Android Programming** and exploring new technologies. I'm always eager to solve problems and build efficient applications.  
+Hi there! I'm **Manan Datta**, a passionate *Python Developer (Fresher)* with a strong foundation in programming and software development. I love working on **Python, C#, C, Android Programming** and exploring new technologies. I'm always eager to solve problems and build efficient applications.  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manandatta&color=blue)  
 
@@ -23,18 +23,15 @@ Hi there! I'm **Manan Datta**, a passionate *Software Developer (Fresher)* with 
 
 ## 🎓 Training  
 
-📍 **Institute**: QSpiders  
-📍 **Course**: Python Full Stack Developer  
-📍 **Skills Learned**:  
-  - **Backend**: Python, Django  
-  - **Frontend**: HTML5, CSS3, JavaScript  
-  - **Database**: SQL  
+- **Institute**: Qspiders  
+- **Course**: Python Full Stack Developer  
+- **Skills**: Python, Django, HTML5, CSS3, JavaScript, SQL  
 
 ---
 
 ## 💻 Tech Stack & Tools  
 
-### 🖥 Programming Languages  
+### 🔥 Programming Languages  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
@@ -49,13 +46,13 @@ Hi there! I'm **Manan Datta**, a passionate *Software Developer (Fresher)* with 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
 </p>
 
-### 🏗 Frameworks  
+### 🏩 Frameworks  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET"/>
 </p>
 
-### 🗄 Database Management  
+### 🟢 Database Management  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/>
@@ -97,13 +94,13 @@ Hi there! I'm **Manan Datta**, a passionate *Software Developer (Fresher)* with 
 
 ---
 
-## 📬 Connect with Me  
+## 💌 Connect with Me  
 
 <p>
   <a href="https://github.com/manandatta" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/manandatta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:manandatta673@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.naukri.com/mnjuser/profile" target="_blank"><img src="https://img.shields.io/badge/Naukri-0057B7?style=for-the-badge&logo=naukri&logoColor=white" alt="Naukri"></a>
+  <a href=https://www.naukri.com/mnjuser/profile target="_blank"><img src="https://img.shields.io/badge/Naukri-0057B7?style=for-the-badge&logo=naukri&logoColor=white" alt="Naukri"></a>
 </p>
 
 <p align="center">
@@ -112,4 +109,5 @@ Hi there! I'm **Manan Datta**, a passionate *Software Developer (Fresher)* with 
 
 ---
 
-🌟 *Let's build something amazing together!* 🌟  
+🌟 *Let's build something amazing together!* 🌟
+
